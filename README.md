@@ -1,2 +1,2 @@
 # git-prg44
-New repository 
+New Repository 
